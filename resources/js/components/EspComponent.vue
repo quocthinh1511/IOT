@@ -3,7 +3,45 @@
 
 
 
-<div> {{ count }}</div>
+<div class = "full">
+  <div>
+    <img class = 'img' src="https://new.sim.edu.vn/wp-content/uploads/2021/11/Logo-BK-400.png">
+  </div>
+<div class="table">
+  <table>
+  <tr>
+    <th>Họ và tên </th>
+    <th>MSSV</th>
+    <th>Ghi Chú</th>
+  </tr> 
+  <tr>
+    <td>Lê Quốc Thịnh</td>
+    <td>2012112</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bùi Trọng Hiếu</td>
+    <td>1913317 </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Huỳnh Nguyễn Đức Phúc Hậu </td>
+    <td>1910170 </td>
+    <td></td>
+  </tr>
+</table>
+</div>
+
+<h1><span class= 'textnew '><i class="uil uil-medkit"></i> Mach dem nguoi ra vao phong</span></h1>
+<div class='container'>
+    <div class="font"> 
+      <p class = "font"> Số người hiện tại ở phòng:     {{count}}</p>
+    </div>
+</div>
+</div>
+
+
+
 
 </template>
 
