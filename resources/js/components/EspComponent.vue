@@ -33,6 +33,7 @@
 </div>
 
 <h1><span class= 'textnew '><i class="uil uil-medkit"></i> Mach dem nguoi ra vao phong</span></h1>
+<h2 class = "teach">Giảng viên hướng dẫn: thầy Trần Hoàng Quân</h2>
 <div class='container'>
     <div class="font"> 
       <p class = "font"> Số người hiện tại ở phòng:     {{count}}</p>

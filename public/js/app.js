@@ -24652,7 +24652,9 @@ var render = function render() {
     _c = _vm._self._c;
   return _c("div", {
     staticClass: "full"
-  }, [_vm._m(0), _vm._v(" "), _vm._m(1), _vm._v(" "), _vm._m(2), _vm._v(" "), _c("div", {
+  }, [_vm._m(0), _vm._v(" "), _vm._m(1), _vm._v(" "), _vm._m(2), _vm._v(" "), _c("h2", {
+    staticClass: "teach"
+  }, [_vm._v("Giảng viên hướng dẫn: thầy Trần Hoàng Quân")]), _vm._v(" "), _c("div", {
     staticClass: "container"
   }, [_c("div", {
     staticClass: "font"
